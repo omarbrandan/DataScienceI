@@ -1,5 +1,4 @@
-Este proyecto se llevará a cabo con un dataset sobre las canciones más escuchadas hasta 2024 en plataformas como Spotify (S), YouTube (Y) y TikTok (T). Cuenta con 29 columnas entre las que destaco:
-
+Este proyecto se llevará a cabo con un dataset sobre las canciones más escuchadas hasta el año 2024 en plataformas como Spotify (S), YouTube (Y) y TikTok (T). Cuenta con 29 columnas entre las que destaco:
 "Track"; "Album Name"; "Artist"; "Release Date"; "Spotify Streams"; "YouTube Views"; "TikTok Views"; y "Explicit Track".
 
 La primera modificación que llevé a cabo fue convertir "Release Date" a formato fecha. A continuación, definí a "All Time Rank" como el índice del dataset.
