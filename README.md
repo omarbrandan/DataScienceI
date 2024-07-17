@@ -21,4 +21,4 @@ H0: μ1 = μ2
 H1: μ1 ≠ μ2
 
 Habiendo realizado el Test-T e Intervalos de Confianza para la prueba de hipótesis, concluyo que no hay evidencia suficiente (o dicho de otro modo, no existe una diferencia estadísticamente significativa en el número promedio de transmisiones de Spotify entre canciones explícitas y no explícitas*) para rechazar H0.
-* Aunque puede haber alguna diferencia en las transmisiones promedio observadas entre los dos tipos de canciones en su muestra, esta diferencia no es lo suficientemente grande como para concluir con seguridad que existe una diferencia real en la población general de canciones.
+Aunque puede haber alguna diferencia en las transmisiones promedio observadas entre los dos tipos de canciones en su muestra, esta diferencia no es lo suficientemente grande como para concluir con seguridad que existe una diferencia real en la población general de canciones.
