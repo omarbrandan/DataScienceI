@@ -22,3 +22,9 @@ H1: μ1 ≠ μ2
 
 Habiendo realizado el Test-T e Intervalos de Confianza para la prueba de hipótesis, concluyo que no hay evidencia suficiente (o dicho de otro modo, no existe una diferencia estadísticamente significativa en el número promedio de transmisiones de Spotify entre canciones explícitas y no explícitas*) para rechazar H0.
 Aunque puede haber alguna diferencia en las transmisiones promedio observadas entre los dos tipos de canciones en su muestra, esta diferencia no es lo suficientemente grande como para concluir con seguridad que existe una diferencia real en la población general de canciones.
+
+IDENTIFICACIÓN DE OUTLIERS
+Procedí a generar un Z Score con Matplotlib y Bokeh para ver las reproducciones atípicas en Spotify en el 2023. Con esos gráficos, surgió la curiosidad si las reproducciones se debían a artistas reconocidos y por eso los valores tan altos.
+Para ello, relacioné las reproducciones atípicas, previamente identificadas, con el top 100 de artistas.
+Pude concluir que de los 32 outliers, 18 (el 56%) se deben a que fueron promovidos por artistas extremadamente famosos y talentosos como ser Miley Cyrus, Bizarrap, Dua Lipa, etc.
+
